@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
+import matplotlib as plt
 import os
 
 filepath1= os.path.join(os.path.dirname(__file__), 'dl_monthly_aqi.csv')
