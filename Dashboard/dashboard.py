@@ -212,4 +212,6 @@ with tab3:
             # plotting
             st.pyplot(plt)
             st.caption('Figure 2. Grafik perbandingan terhadap yearly ')
-    st.write("terlihat bahwa kesimpulan yang sebelumnya sangat sesuai dengan grafik garis pada figure 1, dan figure 2, dimana semakin besar nilainya, maka semakin berpolusi tempat tersebut")    
+    st.write("terlihat bahwa kesimpulan yang sebelumnya sangat sesuai dengan grafik garis pada figure 1, dan figure 2, dimana semakin besar nilainya, maka semakin berpolusi tempat tersebut")
+    st.write("Nilai tertinggi dan terendah pada kota Dingling ada pada bulan Maret di angka 130 dan bulan Agustus pada angka 84, pada kota Guanyuan nilai tertinggi ada pada bulan December di angka 153 dan nilai terendah di bulan Agustus di angka 101")
+    st.write("Alasan mengapa pada agustus sebenarnya bisa di explore lagi dengan mengamati rata-rata nilai curah hujan tiap bulannya dari tahun ke tahun")
