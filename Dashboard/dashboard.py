@@ -1,4 +1,4 @@
-# code end to end ngubah all_data_chinadf.csv yg udah bersih jd bagian kotanya sampe nampilin di streamlit lokal data, komparasi grafik
+# code end to end ngubah all_data_chinadf.csv yg udah bersih jd bagian kotanya sampe nampilin di streamlit lokal dan cloud (online), komparasi grafik
 # dan kesimpulan dari hasil data dan komparasi grafik
 
 import streamlit as st
